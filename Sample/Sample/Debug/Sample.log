@@ -1,0 +1,12 @@
+﻿  Main.cpp
+Main.cpp(26): warning C4102: 'std': unreferenced label
+Main.cpp(116): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(140): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(187): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(232): warning C4102: 'std': unreferenced label
+Main.cpp(273): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(300): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(319): warning C4018: '<': signed/unsigned mismatch
+  Main.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Sample.vcxproj -> C:\Users\Sean\Desktop\Documents\Visual Studio 2015\Projects\Sample\Debug\Sample.exe
+  Sample.vcxproj -> C:\Users\Sean\Desktop\Documents\Visual Studio 2015\Projects\Sample\Debug\Sample.pdb (Partial PDB)
